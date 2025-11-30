@@ -5,6 +5,8 @@ Welcome to my **40-Day JavaScript Challenge** — a personal journey to strength
 This repository contains all my daily tasks, neatly organized into folders.
 
 ## 📁 Folder Structure
+
+```
 tasks/
  ├── task01
  ├── task02
@@ -12,6 +14,7 @@ tasks/
  ├── task04
  ├── task05
  └── ...
+ ```
 
 
 ---
