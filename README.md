@@ -25,11 +25,11 @@ Below are quick links to each task folder:
 
 | Day | Task Folder              | Description                              |
 | --- | ------------------------ | ---------------------------------------- |
-| 01  | [task01](./tasks/task01) | Intro basics — variables, data types     |
-| 02  | [task02](./tasks/task02) | Operators, expressions, simple programs  |
-| 03  | [task03](./tasks/task03) | Conditional statements & logic building  |
-| 04  | [task04](./tasks/task04) | Loops and iteration concepts             |
-| 05  | [task05](./tasks/task05) | Functions, parameters, and return values |
+| 01  | [task01](./task01) | Intro basics — variables, data types     |
+| 02  | [task02](./task02) | Operators, expressions, simple programs  |
+| 03  | [task03](./task03) | Conditional statements & logic building  |
+| 04  | [task04](./task04) | Loops and iteration concepts             |
+| 05  | [task05](./task05) | Functions, parameters, and return values |
 | …   | *(updated daily)*        | —                                        |
 
 > I’ll keep updating this table as I complete each day of the challenge.
