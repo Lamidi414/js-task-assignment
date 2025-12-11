@@ -13,6 +13,8 @@ tasks/
  ├── task03
  ├── task04
  ├── task05
+ ├── task06
+ ├── task07
  └── ...
  ```
 
@@ -25,12 +27,14 @@ Below are quick links to each task folder:
 
 | Day | Task Folder              | Description                              |
 | --- | ------------------------ | ---------------------------------------- |
-| 01  | [task01](./task01) | Intro basics — variables, data types     |
-| 02  | [task02](./task02) | Operators, expressions, simple programs  |
-| 03  | [task03](./task03) | Conditional statements & logic building  |
-| 04  | [task04](./task04) | Loops and iteration concepts             |
-| 05  | [task05](./task05) | Functions, parameters, and return values |
-| …   | *(updated daily)*        | —                                        |
+| 01  | [task01](./task01) | Intro basics — console.log statement, innerText statement   |
+| 02  | [task02](./task02) | Variables(let, var, const) and Datatypes[primitive(String, Number, Boolean, Undefined, Null, BigInt, Symbol), Non-Primive/Reference(Object, Array, and Function)] |
+| 03  | [task03](./task03) | Operators(+ -  * / %), Operand( x+y, x and y) and Expression  |
+| 04  | [task04](./task04) | Control flow and Branching. (if, else if, else), The switch statement              |
+| 05  | [task05](./task05) | Loop and Iteration, The for Loop, for Loop Flow Chart, Nested Loop, break and continue, Handling Multiple Counters, The while Loop, The do-while Loop, Infinite Loop |
+| 06  | [task06](./task06) | Function and Expression, Declare a function, call or invoke a function, function as an expression, **parameter and argument:** (default parameter, rest parameter), Nested function, Call-back function, Named function, Pure function, HOF, Arrow function, IIFE, Call Stack, Recursion,  |
+| 07  | [task07](./task07) | Project Building, (Rock Paper Scissors Game) |
+| 00   | *(updated daily)*        | —                                        |
 
 > I’ll keep updating this table as I complete each day of the challenge.
 
@@ -75,9 +79,8 @@ Constructive feedback is always welcome!
 
 ## ⏳ Progress
 
-**5 / 40 days completed**
+**Progress: 7/40 Days Completed (17.5%)**
 
-████░░░░░░░░░░░░░░░░░░
-
+████░░░░░░░░░░░░░░░░░
 
 
